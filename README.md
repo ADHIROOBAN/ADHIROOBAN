@@ -1,7 +1,5 @@
 Hi, I’m @ADHIROOBAN
 I’m interested in content writing and development.
-I’m currently learningDart on Flutter,C,Java.
-I’m looking to collaborate on nothing.
 
 
 <!---
